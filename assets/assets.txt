@@ -12,6 +12,9 @@ i:en.png:12342:image/png
 i:times-new-roman-bold.png:33211:image/png
 t:qs-25-reg.fnt:66448:application/unknown
 t:qs-60-boldglow.fnt:59985:application/unknown
+d:bundle:0:application/unknown
+b:bundle/lang_en.properties:42:application/unknown
+b:bundle/lang.properties:42:application/unknown
 i:qs-25-bold.png:1049316:image/png
 t:myfont.fnt:10783:application/unknown
 i:qs-25-reg.png:1049316:image/png
